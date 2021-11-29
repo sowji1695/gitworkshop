@@ -11,3 +11,5 @@
 ***both bold and italic***
 
 [Google](https://www.google.com/)
+
+![Tajmahal](https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg)
